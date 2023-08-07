@@ -27,7 +27,7 @@ window.addEventListener('load', () => {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Hello world example</title>
 
-    <script src="elemental.js"></script>
+    <script src="https://raw.githubusercontent.com/Rexxt/elemental.js/main/elemental.js"></script>
     <script src="components.js"></script>
 </head>
 <body>
@@ -36,3 +36,7 @@ window.addEventListener('load', () => {
 </body>
 </html>
 ```
+
+access the source code [here](https://raw.githubusercontent.com/Rexxt/elemental.js/main/elemental.js).
+
+the only script tag you need is `<script src="https://raw.githubusercontent.com/Rexxt/elemental.js/main/elemental.js"></script>`.
